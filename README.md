@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/switest/az-github/_apis/build/status%2Fshandywi.azdev-github?branchName=main)](https://dev.azure.com/switest/az-github/_build/latest?definitionId=11&branchName=main)
